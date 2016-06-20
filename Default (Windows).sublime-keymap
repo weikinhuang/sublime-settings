@@ -1,94 +1,59 @@
 [
+  // Common shortcuts
   {
-    "keys": [
-      "shift+enter"
-    ],
+    "keys": [ "shift+enter" ],
     "command": "run_macro_file",
-    "args": {
-      "file": "Packages/Default/Add Line.sublime-macro"
-    }
+    "args": { "file": "Packages/Default/Add Line.sublime-macro" }
   },
   {
-    "keys": [
-      "alt+up"
-    ],
+    "keys": [ "alt+up" ],
     "command": "swap_line_up"
   },
   {
-    "keys": [
-      "alt+down"
-    ],
+    "keys": [ "alt+down" ],
     "command": "swap_line_down"
   },
   {
-    "keys": [
-      "ctrl+alt+j"
-    ],
+    "keys": [ "ctrl+alt+j" ],
     "command": "join_lines"
   },
   {
-    "keys": [
-      "ctrl+alt+up"
-    ],
+    "keys": [ "ctrl+alt+up" ],
     "command": "duplicate_line"
   },
   {
-    "keys": [
-      "ctrl+alt+down"
-    ],
+    "keys": [ "ctrl+alt+down" ],
     "command": "duplicate_line"
   },
   {
-    "keys": [
-      "shift+ctrl+r"
-    ],
+    "keys": [ "shift+ctrl+r" ],
     "command": "show_overlay",
-    "args": {
-      "overlay": "goto",
-      "show_files": true
-    }
+    "args": { "overlay": "goto", "show_files": true }
   },
   {
-    "keys": [
-      "ctrl+shift+s"
-    ],
+    "keys": [ "ctrl+shift+s" ],
     "command": "save_all"
   },
   {
-    "keys": [
-      "ctrl+l"
-    ],
+    "keys": [ "ctrl+l" ],
     "command": "show_overlay",
-    "args": {
-      "overlay": "goto",
-      "text": ":"
-    }
+    "args": { "overlay": "goto", "text": ":" }
   },
   {
-    "keys": [
-      "shift+ctrl+f4"
-    ],
+    "keys": [ "shift+ctrl+f4" ],
     "command": "close_all"
   },
   {
-    "keys": [
-      "shift+ctrl+y"
-    ],
+    "keys": [ "shift+ctrl+y" ],
     "command": "lower_case"
   },
   {
-    "keys": [
-      "shift+ctrl+x"
-    ],
+    "keys": [ "shift+ctrl+x" ],
     "command": "upper_case"
   },
   {
-    "keys": [
-      "ctrl+d"
-    ],
+    "keys": [ "ctrl+d" ],
     "command": "run_macro_file",
-    "args": {
-      "file": "Packages/Default/Delete Line.sublime-macro"
-    }
+    "args": { "file": "Packages/Default/Delete Line.sublime-macro" }
   }
 ]
