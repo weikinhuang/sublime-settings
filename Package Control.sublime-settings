@@ -5,16 +5,22 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
+		"BracketHighlighter",
 		"Color Highlighter",
+		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"Git",
 		"GitGutter",
 		"JSONLint",
 		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
-		"Sass"
+		"Sass",
+		"SideBarEnhancements"
 	]
 }
