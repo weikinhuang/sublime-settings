@@ -4,5 +4,11 @@
 !.gitignore
 !README.md
 
+# Sublime settings
+!*.sublime-settings
+
+# Sublime keymap
+!*.sublime-keymap
+
 # Sublime Package Control
 !Package Control.sublime-settings
