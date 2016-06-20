@@ -1,4 +1,8 @@
 *
 
+# base git files
 !.gitignore
 !README.md
+
+# Sublime Package Control
+!Package Control.sublime-settings
